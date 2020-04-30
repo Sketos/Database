@@ -1,0 +1,11 @@
+{
+  "AzTEC1":{
+    "properties":{  
+    
+    },
+    "photometry":{
+      "850microns":None
+    }
+  },
+  "AzTEC4":{}
+}
